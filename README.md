@@ -2,4 +2,4 @@
 
 <h2>Sobre mim: <h2>
 
-a<br>a
+Me chamo Paulo Ricardo<br>Tenho 17 anos<br>Gosto muito em jogar volei<br>Sou paulistano<br>Faço curso tecnico 
