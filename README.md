@@ -2,4 +2,7 @@
 
 <h2>Sobre mim: <h2>
 
-Me chamo Paulo Ricardo<br>Tenho 17 anos<br>Gosto muito em jogar volei<br>Sou paulistano<br>Faço curso tecnico 
+eu  Paulo Ricardo<br>Tenho 17 anos<br>Gosto muito em jogar volei<br>Sou paulistano<br>Faço curso tecnico 
+
+<h2>Expenci~encia<h2>
+Fço ensino medio tecnico, na escola Antonieta Borges Alves, 
