@@ -2,7 +2,7 @@
 
 <h2>Sobre mim: </h2>
 
-Eu  Paulo Ricardo<br>Tenho 17 anos<br>Gosto muito em jogar volei<br>Sou paulistano<br>Faço curso tecnico 
+Eu  Paulo Ricardo, Tenho 17 anos, Gosto muito em jogar volei, Sou paulistano, Faço curso tecnico 
 
 <h2>Expenciência</h2>
 Estudo ensino medio tecnico, na escola Antonieta Borges Alves, cursos Desenvolvimento de Sistema nisso aprendo diversas materías como: Inteligência Artificial, Programação de Software, Logica e Linguagem de Programação, Versionamento de Codigo, Redes de Computadores e por fim Carreira e Compêtencia para o  mercado de trabalho. Na matería Logica e Lingiuagem de Programação aprendi:<br>
